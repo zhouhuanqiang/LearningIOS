@@ -23,10 +23,16 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 [sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师
+[Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
 [里脊串的开发随笔](http://adad184.com)| 著名iOS工程师
 [标哥的技术博客](http://www.henishuo.com)| 著名iOS工程师，博客更新非常频繁，活跃在各个社区，reviewcode.cn成员
 [微博@iOS程序犭袁](http://weibo.com/luohanchenyilong?refer_flag=1005055013_&is_all=1)| 软件工程师，[github](https://github.com/ChenYilong)上有iOS9AdaptationTips,iOSInterviewQuestions等多个上千star的项目
 [WeRead团队博客](http://wereadteam.github.io)| 微信读书团队博客
+[南峰子的技术博客](http://southpeak.github.io)| 南峰子的技术博客
+[FengJian's Blog](http://fengjian0106.github.io)| FengJian's Blog
+[阿毛的蛋疼地 ](http://xiangwangfeng.com)| 博客从2011年就开始更新了
+
+
 ## 更多资料
 
 地址  |  简介
