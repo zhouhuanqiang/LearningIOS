@@ -1,5 +1,6 @@
 # LearningIOS
 iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学者们少走弯路，少花时间在搜索资料上，个人为iOS初学者整理了一份学习资料。希望能帮助到大家。
+
 ## 培训班视频教程
 
 地址  |  简介
@@ -43,7 +44,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [OneV's Den](https://onevcat.com/#blog)| 王巍，喵神，知名iOS/Unity 开发者，现居日本，就职于LINE[微博@onevcat](http://weibo.com/onevcat?from=myfollow_group)
 [移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)| 第一时间传递移动开发最新干货内容，与时代保持同步。
 
-## iOS相关网站
+## 学习网站
 
 地址  |  简介
 ---- | ----
@@ -53,6 +54,12 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Shinobicontrols](https://www.shinobicontrols.com/blog)| The latest technical blog posts
 [iOS Developer Tips](http://iosdevelopertips.com)| Code, tips and tricks for iOS developers
 [Raywenderlich](https://www.raywenderlich.com)| 国外iOS视频教程网站
+
+## 微信公众号
+![iOS开发.png](http://upload-images.jianshu.io/upload_images/1070332-dc0dfbc710d806ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![iOS开发技术分享.png](http://upload-images.jianshu.io/upload_images/1070332-7fab934e16cdb760.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![iOS大全.png](http://upload-images.jianshu.io/upload_images/1070332-3bdb7f005c4853f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 更多资料
 
