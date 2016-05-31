@@ -6,7 +6,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ---- | ----
 [传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 传智播客基础班C、Objective-C
 [传智播客2015年基础班](http://yun.baidu.com/s/1kVniCIV)| 传智播客基础班C、Objective-C
-[传智播客2016-OC](http://yun.baidu.com/s/1boZSaf1)| 传智播客2016最新Objective-C视频
+[传智播客2016年基础班](http://yun.baidu.com/s/1eRVIrOA)| 传智播客2016基础班
 [传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
@@ -25,9 +25,10 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ---- | ----
 [sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师[微博@我就叫Sunny怎么了](http://weibo.com/u/1364395395?topnav=1&wvr=6&topsug=1&is_all=1)
 [Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
-[里脊串的开发随笔](http://adad184.com)| 著名iOS工程师
+[叶孤城](http://www.jianshu.com/users/b82d2721ba07/latest_articles)| 大神，现在创业。[微博@叶孤城___](http://weibo.com/u/1438670852?from=myfollow_group&is_all=1)
+[里脊串的开发随笔](http://adad184.com)| 著名iOS工程师[微博@里脊串](http://weibo.com/ljc1986?from=myfollow_group&is_all=1)
 [标哥的技术博客](http://www.henishuo.com)| 著名iOS工程师，博客更新非常频繁，活跃在各个社区，reviewcode.cn成员
-[微博@iOS程序犭袁](http://weibo.com/luohanchenyilong?refer_flag=1005055013_&is_all=1)| 软件工程师，[github](https://github.com/ChenYilong)上有iOS9AdaptationTips,iOSInterviewQuestions等多个上千star的项目
+[ChenYilong](https://github.com/ChenYilong)| [微博@iOS程序犭袁](http://weibo.com/luohanchenyilong?refer_flag=1005055013_&is_all=1)有iOS9AdaptationTips,iOSInterviewQuestions等多个上千star的项目
 [WeRead团队博客](http://wereadteam.github.io)| 微信读书团队博客
 [南峰子的技术博客](http://southpeak.github.io)| 就职于京东金融。[微博@南峰子_老驴](http://weibo.com/touristdiary?refer_flag=1005055013_&is_all=1)
 [FengJian's Blog](http://fengjian0106.github.io)| FengJian's Blog
@@ -35,6 +36,12 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
 [Limboy](http://limboy.me)| 蘑菇街iOS工程师
+[lzwjava](https://github.com/lzwjava)| 前 LeanCloud 工程师。[微博@lzwjava](http://weibo.com/zhiweilee)
+[唐巧](http://blog.devtang.com)| 猿题库iOS高级研发工程师。[微博@唐巧_boy](http://weibo.com/tangqiaoboy?refer_flag=1005055013_&is_all=1)
+[bestswifter](http://www.jianshu.com/users/3e55748920d2/latest_articles)| 简书推荐作者。[微博@bestswifter](http://weibo.com/bestswifter?refer_flag=1005055013_&is_all=1)
+李明杰| 小码哥CEO。[微博@M了个J](http://weibo.com/exceptions?from=myfollow_group&is_all=1)
+[OneV's Den](https://onevcat.com/#blog)| 王巍，喵神，知名iOS/Unity 开发者，现居日本，就职于LINE[微博@onevcat](http://weibo.com/onevcat?from=myfollow_group)
+[移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)| 第一时间传递移动开发最新干货内容，与时代保持同步。
 
 ## iOS相关网站
 
