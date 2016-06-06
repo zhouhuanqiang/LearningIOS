@@ -47,6 +47,8 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 李明杰| 小码哥CEO。[微博@M了个J](http://weibo.com/exceptions?from=myfollow_group&is_all=1)
 [OneV's Den](https://onevcat.com/#blog)| 王巍，喵神，知名iOS/Unity 开发者，现居日本，就职于LINE[微博@onevcat](http://weibo.com/onevcat?from=myfollow_group)
 [移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)| 第一时间传递移动开发最新干货内容，与时代保持同步。
+[tany](https://github.com/12207480)| Github上有很多干货 [微博@yeBlueColor](http://weibo.com/u/5515296583?refer_flag=1001030101_&is_all=1)
+[微博@GitHubDaily](http://weibo.com/GitHubDaily?from=feed&loc=at&nick=GitHubDaily&is_all=1)| 专注于分享 GitHub 最新的优质开源项目
 
 ## 学习网站
 
