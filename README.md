@@ -8,17 +8,21 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 传智播客基础班C、Objective-C
 [传智播客2015年基础班](http://yun.baidu.com/s/1kVniCIV)| 传智播客基础班C、Objective-C
 [传智播客2016年基础班](http://yun.baidu.com/s/1eRVIrOA)| 传智播客2016基础班
-[传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客广州就业班
+[传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客2015广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
 [小码哥大神班一期](http://yun.baidu.com/s/1qWSoyew)| 李明杰创办的小码哥教育第一期视频，加入swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
 [小码哥大神班五期](http://pan.baidu.com/s/1jI8jkvc)| 新增MVVM，Apple Pay
 
-## 进阶视频教程
+## 进阶教程
 
 地址  |  简介
 ---- | ----
-斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| QQ群(叶孤城的iOS开发天地)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，插件开发等高级内容
+斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| QQ群(叶孤城的iOS开发天地)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容
+[Developing-iOS-9-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing-iOS-9-Apps-with-Swift)| 斯坦福大学公开课，Swift版iOS9教程，字幕翻译
+[Developing-iOS-8-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift)| 斯坦福大学公开课，Swift版iOS8教程，字幕翻译
+[iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html)| 斯坦福大学公开课，Objective-C
+[iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html)| 斯坦福大学公开课，iOS7，Objective-C
 
 ## 推荐博客、微博或github
 
@@ -66,3 +70,4 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)| 5000多个star的iOS学习资料
+[SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，9400+的star
