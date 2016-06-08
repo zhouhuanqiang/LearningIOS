@@ -7,7 +7,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ---- | ----
 [传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 传智播客基础班C、Objective-C
 [传智播客2015年基础班](http://yun.baidu.com/s/1kVniCIV)| 传智播客基础班C、Objective-C
-[传智播客2016-OC](http://yun.baidu.com/s/1boZSaf1)| 传智播客2016最新Objective-C视频
+[传智播客2016年基础班](http://yun.baidu.com/s/1eRVIrOA)| 传智播客2016最新基础班
 [传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
@@ -27,7 +27,6 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师[微博@我就叫Sunny怎么了](http://weibo.com/u/1364395395?topnav=1&wvr=6&topsug=1&is_all=1)
 [Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
 [里脊串的开发随笔](http://adad184.com)| 著名iOS工程师
-[标哥的技术博客](http://www.henishuo.com)| 著名iOS工程师，博客更新非常频繁，活跃在各个社区，reviewcode.cn成员
 [微博@iOS程序犭袁](http://weibo.com/luohanchenyilong?refer_flag=1005055013_&is_all=1)| 软件工程师，[github](https://github.com/ChenYilong)上有iOS9AdaptationTips,iOSInterviewQuestions等多个上千star的项目
 [WeRead团队博客](http://wereadteam.github.io)| 微信读书团队博客
 [南峰子的技术博客](http://southpeak.github.io)| 就职于京东金融。[微博@南峰子_老驴](http://weibo.com/touristdiary?refer_flag=1005055013_&is_all=1)
@@ -36,6 +35,10 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
 [Limboy](http://limboy.me)| 蘑菇街iOS工程师
+[百度Hi iOS团队技术周报](http://baiduhidevios.github.io/)| 百度Hi iOS团队技术周报
+[美团点评技术团队博客](http://tech.meituan.com/)| 美团点评技术团队
+[移动开发前线博客](http://mobilefrontier.github.io/)| 第一时间传递移动开发最新干货内容，与时代保持同步，消除信息焦虑。[微博@移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)
+
 
 ## 学习网站
 
@@ -50,8 +53,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 ## 微信公众号
 ![iOS开发.png](http://upload-images.jianshu.io/upload_images/1070332-dc0dfbc710d806ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![iOS开发技术分享.png](http://upload-images.jianshu.io/upload_images/1070332-7fab934e16cdb760.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![8D48AF19-0388-47AE-BCD9-9C92EC67C71D.png](http://upload-images.jianshu.io/upload_images/1070332-e2d724abc257c10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![iOS大全.png](http://upload-images.jianshu.io/upload_images/1070332-3bdb7f005c4853f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 更多资料
