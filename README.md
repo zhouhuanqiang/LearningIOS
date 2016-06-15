@@ -34,6 +34,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [美团点评技术团队博客](http://tech.meituan.com/)| 美团点评技术团队
 [苹果核](http://pingguohe.net)| 现由天猫无线-基础业务团队主力维护
 [SwiftGG翻译组](http://swift.gg)| 翻译的文章来源于国外的优秀 Swift 网站和博客
+[移动开发前线博客](http://mobilefrontier.github.io/)| 第一时间传递移动开发最新干货内容，与时代保持同步，消除信息焦虑。[微博@移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)
 [sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师[微博@我就叫Sunny怎么了](http://weibo.com/u/1364395395?topnav=1&wvr=6&topsug=1&is_all=1)
 [Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
 [叶孤城](http://www.jianshu.com/users/b82d2721ba07/latest_articles)| 大神，现在创业。[微博@叶孤城___](http://weibo.com/u/1438670852?from=myfollow_group&is_all=1)
@@ -46,7 +47,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
 [Limboy](http://limboy.me)| 蘑菇街iOS工程师
-[移动开发前线博客](http://mobilefrontier.github.io/)| 第一时间传递移动开发最新干货内容，与时代保持同步，消除信息焦虑。[微博@移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)
+[高少东](https://github.com/gsdios)| SDAutoLayout作者 [微博@GSD_iOS ](http://weibo.com/gsdios?is_all=1)
 [lzwjava](https://github.com/lzwjava)| 前 LeanCloud 工程师。[微博@lzwjava](http://weibo.com/zhiweilee)
 [唐巧](http://blog.devtang.com)| 猿题库iOS高级研发工程师。[微博@唐巧_boy](http://weibo.com/tangqiaoboy?refer_flag=1005055013_&is_all=1)
 [bestswifter](http://www.jianshu.com/users/3e55748920d2/latest_articles)| 简书推荐作者。[微博@bestswifter](http://weibo.com/bestswifter?refer_flag=1005055013_&is_all=1)
@@ -66,6 +67,28 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [iOS Developer Tips](http://iosdevelopertips.com)| Code, tips and tricks for iOS developers
 [Raywenderlich](https://www.raywenderlich.com)| 国外iOS视频教程网站
 
+## 开源项目
+
+地址  |  简介
+---- | ----
+[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3300+
+[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3200+
+[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star2100+
+[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1600+
+[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star1600+
+[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star1500+
+[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star1200+
+[高仿美团](https://github.com/lookingstars/meituan)|  star1200+
+[爱鲜蜂](https://github.com/ZhongTaoTian/LoveFreshBeen)| Swift2.0，star1000+
+[高仿支付宝](https://github.com/gsdios/GSD_ZHIFUBAO)|  star700+
+[高仿最美应用](https://github.com/lyimin/beautifulApp)|  star700+
+[高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star600+
+[知乎日报](https://github.com/jxd001/Swift-ZhihuDaily)|  swift 知乎日报, star500+
+[一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star500+
+[CocoaChina+](https://github.com/meilbn/MyOne-iOS)|  开源的第三方CocoaChina移动端,swift2.0， star500+
+[半塘](https://github.com/jiachenmu/Swift-BanTang)|  Swift2.0 高仿半糖App，star400+
+[高仿百度糯米](https://github.com/lookingstars/nuomi)|  star400+
+[ MVVM](https://github.com/shenAlexy/MVVM)|  MVVM架构的一次实践，重写iOS头条客户端，star300+
 ## 微信公众号
 ![iOS开发.png](http://upload-images.jianshu.io/upload_images/1070332-dc0dfbc710d806ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![8D48AF19-0388-47AE-BCD9-9C92EC67C71D.png](http://upload-images.jianshu.io/upload_images/1070332-e2d724abc257c10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
