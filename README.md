@@ -19,6 +19,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| QQ群(叶孤城的iOS开发天地)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容
+[WWDC官方视频](https://developer.apple.com/videos/)| 历年WWDC官方视频
 [Developing-iOS-9-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing-iOS-9-Apps-with-Swift)| 斯坦福大学公开课，Swift版iOS9教程，字幕翻译
 [Developing-iOS-8-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift)| 斯坦福大学公开课，Swift版iOS8教程，字幕翻译
 [iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html)| 斯坦福大学公开课，Objective-C
@@ -31,6 +32,8 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [WeRead团队博客](http://wereadteam.github.io)| 微信读书团队博客
 [百度Hi iOS团队技术周报](http://baiduhidevios.github.io/)| 百度Hi iOS团队技术周报
 [美团点评技术团队博客](http://tech.meituan.com/)| 美团点评技术团队
+[苹果核](http://pingguohe.net)| 现由天猫无线-基础业务团队主力维护
+[SwiftGG翻译组](http://swift.gg)| 翻译的文章来源于国外的优秀 Swift 网站和博客
 [sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师[微博@我就叫Sunny怎么了](http://weibo.com/u/1364395395?topnav=1&wvr=6&topsug=1&is_all=1)
 [Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
 [叶孤城](http://www.jianshu.com/users/b82d2721ba07/latest_articles)| 大神，现在创业。[微博@叶孤城___](http://weibo.com/u/1438670852?from=myfollow_group&is_all=1)
@@ -73,4 +76,4 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)| 5000多个star的iOS学习资料
-[SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，9400+的star
+[SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，接近1W的star
