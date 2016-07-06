@@ -51,6 +51,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
 [Limboy](http://limboy.me)| 蘑菇街iOS工程师
+[刘坤的技术博客](https://blog.cnbluebox.com)| 现就职于杭州阿里
 [高少东](https://github.com/gsdios)| SDAutoLayout作者 [微博@GSD_iOS ](http://weibo.com/gsdios?is_all=1)
 [lzwjava](https://github.com/lzwjava)| 前 LeanCloud 工程师。[微博@lzwjava](http://weibo.com/zhiweilee)
 [唐巧](http://blog.devtang.com)| 猿题库iOS高级研发工程师。[微博@唐巧_boy](http://weibo.com/tangqiaoboy?refer_flag=1005055013_&is_all=1)
@@ -89,7 +90,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star600+
 [知乎日报](https://github.com/jxd001/Swift-ZhihuDaily)|  swift 知乎日报, star500+
 [一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star500+
-[CocoaChina+](https://github.com/meilbn/MyOne-iOS)|  开源的第三方CocoaChina移动端,swift2.0， star500+
+[CocoaChina+](https://github.com/zixun/CocoaChinaPlus)|  开源的第三方CocoaChina移动端,swift2.0， star500+
 [半塘](https://github.com/jiachenmu/Swift-BanTang)|  Swift2.0 高仿半糖App，star400+
 [高仿百度糯米](https://github.com/lookingstars/nuomi)|  star400+
 [MVVM](https://github.com/shenAlexy/MVVM)|  MVVM架构的一次实践，重写iOS头条客户端，star300+
