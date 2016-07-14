@@ -5,6 +5,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 地址  |  简介
 ---- | ----
+[传智播客公开课](http://open.itcast.cn/ios/)| 传智播客iOS公开课
 [传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 传智播客基础班C、Objective-C
 [传智播客2015年基础班](http://yun.baidu.com/s/1kVniCIV)| 传智播客基础班C、Objective-C
 [传智播客2016年基础班](http://yun.baidu.com/s/1pKYiLwJ)| 传智播客2016基础班
@@ -24,7 +25,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Developing-iOS-8-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift)| 斯坦福大学公开课，Swift版iOS8教程，字幕翻译
 [iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html)| 斯坦福大学公开课，Objective-C
 [iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html)| 斯坦福大学公开课，iOS7，Objective-C
-[全球移动技术大会2016](http://ppt.geekbang.org/gmtc?amp;isappinstalled=0&amp;amp;amp;amp;amp;from=groupmessage&amp;amp;amp;amp;from=groupmessage&amp;amp;amp;from=timeline&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0&from=timeline&from=timeline&isappinstalled=0)| 全球移动技术大会2016PPT下载合集
+
 
 ## 推荐博客、微博或github
 
@@ -76,15 +77,18 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 地址  |  简介
 ---- | ----
+[Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star4000+
 [TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3300+
 [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3200+
 [仿网易新闻](https://github.com/dsxNiubility/SXNews)| star2100+
 [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1600+
 [YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star1600+
+[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1500+
 [Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star1500+
 [高仿微信](https://github.com/gsdios/GSD_WeiXin)| star1200+
 [高仿美团](https://github.com/lookingstars/meituan)|  star1200+
 [爱鲜蜂](https://github.com/ZhongTaoTian/LoveFreshBeen)| Swift2.0，star1000+
+[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star800+
 [高仿支付宝](https://github.com/gsdios/GSD_ZHIFUBAO)|  star700+
 [高仿最美应用](https://github.com/lyimin/beautifulApp)|  star700+
 [高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star600+
@@ -103,5 +107,8 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 地址  |  简介
 ---- | ----
-[iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)| 5000多个star的iOS学习资料
+[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)| 6000多个star的iOS学习资料整理
 [SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，接近1W的star
+[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 4000多个star，iOS、mac开源项目及库
+[全球移动技术大会2016](http://ppt.geekbang.org/gmtc?amp;isappinstalled=0&amp;amp;amp;amp;amp;from=groupmessage&amp;amp;amp;amp;from=groupmessage&amp;amp;amp;from=timeline&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0&from=timeline&from=timeline&isappinstalled=0)| 全球移动技术大会2016PPT下载合集
+[atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)| 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
