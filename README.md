@@ -112,5 +112,6 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)| 6000多个star的iOS学习资料整理
 [SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，接近1W的star
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 4000多个star，iOS、mac开源项目及库
+[skill-map](https://github.com/TeamStuQ/skill-map)|  IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱
 [全球移动技术大会2016](http://ppt.geekbang.org/gmtc?amp;isappinstalled=0&amp;amp;amp;amp;amp;from=groupmessage&amp;amp;amp;amp;from=groupmessage&amp;amp;amp;from=timeline&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0&from=timeline&from=timeline&isappinstalled=0)| 全球移动技术大会2016PPT下载合集
 [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)| 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
