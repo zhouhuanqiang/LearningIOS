@@ -6,9 +6,9 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 [传智播客公开课](http://open.itcast.cn/ios/)| 传智播客iOS公开课
-[传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 传智播客基础班C、Objective-C
-[传智播客2015年基础班](http://yun.baidu.com/s/1kVniCIV)| 传智播客基础班C、Objective-C
 [传智播客2016年基础班](http://yun.baidu.com/s/1pKYiLwJ)| 传智播客2016基础班
+[传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 李明杰授课
+[传智2013年就业班](http://pan.baidu.com/s/1eSnvZVk)| 李明杰授课
 [传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客2015广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
@@ -27,7 +27,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html)| 斯坦福大学公开课，iOS7，Objective-C
 
 
-## 推荐博客、微博或github
+## 推荐博客、微博或Github
 
 地址  |  简介
 ---- | ----
@@ -77,6 +77,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 地址  |  简介
 ---- | ----
+[iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)| **收集了优秀的iOS开源框架源代码解析文章，强烈推荐**
 [Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star4000+
 [TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3300+
 [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3200+
@@ -98,6 +99,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [半塘](https://github.com/jiachenmu/Swift-BanTang)|  Swift2.0 高仿半糖App，star400+
 [高仿百度糯米](https://github.com/lookingstars/nuomi)|  star400+
 [MVVM](https://github.com/shenAlexy/MVVM)|  MVVM架构的一次实践，重写iOS头条客户端，star300+
+[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star100+
 ## 微信公众号
 ![iOS开发.png](http://upload-images.jianshu.io/upload_images/1070332-dc0dfbc710d806ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![8D48AF19-0388-47AE-BCD9-9C92EC67C71D.png](http://upload-images.jianshu.io/upload_images/1070332-e2d724abc257c10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
