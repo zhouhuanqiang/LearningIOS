@@ -23,8 +23,8 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ---- | ----
 斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| QQ群(叶孤城的iOS开发天地)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容
 [WWDC官方视频](https://developer.apple.com/videos/)| 历年WWDC官方视频
-[Developing-iOS-9-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing-iOS-9-Apps-with-Swift)| 斯坦福大学公开课，Swift版iOS9教程，字幕翻译
-[Developing-iOS-8-Apps-with-Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift)| 斯坦福大学公开课，Swift版iOS8教程，字幕翻译
+[Developing-iOS-9-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)| 斯坦福大学公开课，Swift版iOS9教程，字幕翻译
+[Developing-iOS-8-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing_iOS_8_Apps_With_Swift)| 斯坦福大学公开课，Swift版iOS8教程，字幕翻译
 [iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html)| 斯坦福大学公开课，Objective-C
 [iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html)| 斯坦福大学公开课，iOS7，Objective-C
 
@@ -68,7 +68,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 
 地址  |  简介
 ---- | ----
-[objc中国](http://objccn.io)| 为中国 Objective-C 社区带来最佳实践和先进技术
+[objc中国](https://objccn.io/)| 为中国 Objective-C 社区带来最佳实践和先进技术
 [NSHipster中文版](http://nshipster.cn)| NSHipster 关注被忽略的 Objective-C、Swift 和 Cocoa 特性。每周更新。
 [iOS Dev Weekly](http://iosdevweekly.com)| 如果你是老手精通英文，那么这个周刊是非常值得推荐订阅的，该周刊提供行业新闻、最新开发动态、开发工具、代码分享、UI设计、设计师招聘等丰富的资源。
 [Shinobicontrols](https://www.shinobicontrols.com/blog)| The latest technical blog posts
