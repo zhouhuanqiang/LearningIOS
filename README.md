@@ -107,6 +107,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ![8D48AF19-0388-47AE-BCD9-9C92EC67C71D.png](http://upload-images.jianshu.io/upload_images/1070332-e2d724abc257c10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![iOS大全.png](http://upload-images.jianshu.io/upload_images/1070332-3bdb7f005c4853f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![qq音乐技术团队.png](http://upload-images.jianshu.io/upload_images/1070332-29fb58a568ae92fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![屏幕快照 2016-08-04 14.00.33.png](http://upload-images.jianshu.io/upload_images/1070332-0538877aeefe565d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 更多资料
 
 地址  |  简介
