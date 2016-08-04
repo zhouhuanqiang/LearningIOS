@@ -50,6 +50,9 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [FengJian's Blog](http://fengjian0106.github.io)| FengJian's Blog
 [阿毛的蛋疼地](http://xiangwangfeng.com)| 博客从2011年就开始更新了
 [王中周的技术博客](http://foggry.com)| 曾就职于高阳科技、北京拉手网
+[土土哥的技术博客](http://tutuge.me)| 就职于阿里巴巴B2B国际事业部
+[玉令天下的博客](http://yulingtianxia.com)| 腾讯移动开发实习
+[Casa Taloyum](http://casatwy.com)| iOS应用架构谈系列作者
 [GeekerProbe](http://blog.wtlucky.com)| 曾就职于美丽说，负责美丽说主站APP的开发工作，在时尚圈也有一番打拼，现就职于百度，负责百度知道项目的开发，也因此加入forkingdog开源小组，为iOS的开源社区做出一点贡献。
 [Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
@@ -81,33 +84,30 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 ---- | ----
 [iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)| **收集了优秀的iOS开源框架源代码解析文章，强烈推荐**
 [Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star4000+
-[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3300+
-[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3200+
-[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star2100+
-[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1600+
-[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star1600+
-[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1500+
-[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star1500+
-[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star1200+
-[高仿美团](https://github.com/lookingstars/meituan)|  star1200+
+[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3000+
+[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3000+
+[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star2000+
+[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1700+
+[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star1800+
+[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star1700+
+[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1600+
+[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star1500+
+[高仿美团](https://github.com/lookingstars/meituan)|  star1300+
+[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star1300+
 [爱鲜蜂](https://github.com/ZhongTaoTian/LoveFreshBeen)| Swift2.0，star1000+
-[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star800+
+[高仿Bilibili客户端](https://github.com/MichaelHuyp/Bilibili_Wuxianda)| star1000+
 [高仿支付宝](https://github.com/gsdios/GSD_ZHIFUBAO)|  star700+
 [高仿最美应用](https://github.com/lyimin/beautifulApp)|  star700+
-[高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star600+
+[高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star700+
+[一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star600+
 [知乎日报](https://github.com/jxd001/Swift-ZhihuDaily)|  swift 知乎日报, star500+
-[一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star500+
 [CocoaChina+](https://github.com/zixun/CocoaChinaPlus)|  开源的第三方CocoaChina移动端,swift2.0， star500+
 [半塘](https://github.com/jiachenmu/Swift-BanTang)|  Swift2.0 高仿半糖App，star400+
 [高仿百度糯米](https://github.com/lookingstars/nuomi)|  star400+
 [MVVM](https://github.com/shenAlexy/MVVM)|  MVVM架构的一次实践，重写iOS头条客户端，star300+
-[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star100+
+[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star200+
 ## 微信公众号
-![iOS开发.png](http://upload-images.jianshu.io/upload_images/1070332-dc0dfbc710d806ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![8D48AF19-0388-47AE-BCD9-9C92EC67C71D.png](http://upload-images.jianshu.io/upload_images/1070332-e2d724abc257c10e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![iOS开发2.png](http://upload-images.jianshu.io/upload_images/1070332-eaa39a267e483698.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![iOS大全.png](http://upload-images.jianshu.io/upload_images/1070332-3bdb7f005c4853f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![qq音乐技术团队.png](http://upload-images.jianshu.io/upload_images/1070332-29fb58a568ae92fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![屏幕快照 2016-08-04 14.00.33.png](http://upload-images.jianshu.io/upload_images/1070332-0538877aeefe565d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1070332-6b6f25ce0b552191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 更多资料
 
 地址  |  简介
