@@ -12,8 +12,8 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客2015广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
-[小码哥大神班1期](https://pan.baidu.com/share/link?uk=1963116855&shareid=150213333&third=0&adapt=pc&fr=ftw)| 李明杰创办的小码哥教育第一期视频，加入swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
-[小码哥大神班5期](http://pan.baidu.com/s/1jI8jkvc)| 新增MVVM，Apple Pay
+[小码哥大神班1期](https://pan.baidu.com/s/1eRNFvAa)| 李明杰创办的小码哥教育第一期视频，加入swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
+[小码哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
 [小码哥大神班11期](http://pan.baidu.com/share/init?shareid=1515695340&uk=2357327753)| 密码: 4gkv 新增React Native项目
 
 
