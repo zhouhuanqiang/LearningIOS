@@ -8,13 +8,13 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [传智播客iOS公开课](http://open.itcast.cn/ios/)| 传智播客iOS公开课
 [传智播客2016年基础班](http://yun.baidu.com/s/1pKYiLwJ)| 传智播客2016基础班
 [传智播客2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| 李明杰授课
-[传智2013年就业班](http://pan.baidu.com/s/1eSnvZVk)| 李明杰授课
+[传智2013年就业班](http://pan.baidu.com/s/1eSnvZVk)| 李明杰授课 解压密码u1ku.taobao.com
 [传智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| 传智播客2015广州就业班
 [黑马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
-[小码哥大神班1期](https://pan.baidu.com/s/1dFdrGCL)| 李明杰创办的小码哥教育第一期视频，加入swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
+[小码哥大神班1期](https://pan.baidu.com/s/1o8GpGy2)| 李明杰，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
 [小码哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
-[小码哥大神班11期](http://pan.baidu.com/share/init?shareid=1515695340&uk=2357327753)| 密码: 4gkv 新增React Native项目
+[小码哥大神班11期](https://pan.baidu.com/share/init?shareid=3917258015&uk=2357327753)| 密码: 2kb3jcr 新增React Native项目
 
 
 ## 进阶教程
