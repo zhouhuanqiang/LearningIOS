@@ -14,7 +14,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [黑马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| 黑马程序员就业班
 [小码哥大神班1期](https://pan.baidu.com/s/1o8GpGy2)| 李明杰，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
 [小码哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
-小码哥大神班11期| [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分]((https://pan.baidu.com/s/1dE2eTSt))密码: a7fx 新增React Native项目
+小码哥大神班11期| [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目
 
 
 ## 进阶教程
@@ -58,6 +58,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
 [Limboy](http://limboy.me)| 蘑菇街iOS工程师
 [刘坤的技术博客](https://blog.cnbluebox.com)| 现就职于杭州阿里
+[kuailejim](http://www.jianshu.com/users/40e4dced948f/latest_articles)| kuailejim
 [高少东](https://github.com/gsdios)| SDAutoLayout作者 [微博@GSD_iOS ](http://weibo.com/gsdios?is_all=1)
 [lzwjava](https://github.com/lzwjava)| 前 LeanCloud 工程师。[微博@lzwjava](http://weibo.com/zhiweilee)
 [唐巧](http://blog.devtang.com)| 猿题库iOS高级研发工程师。[微博@唐巧_boy](http://weibo.com/tangqiaoboy?refer_flag=1005055013_&is_all=1)
