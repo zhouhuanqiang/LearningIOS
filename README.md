@@ -12,7 +12,7 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [*智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| *智2015广州就业班
 [*马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
 [*马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| *马程序员就业班
-[小*哥大神班1期](https://pan.baidu.com/s/1o8GpGy2)| MJ，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
+[小*哥大神班1期](https://pan.baidu.com/s/1o8GpGy2)| MJ，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5，失效加百度云qq461416254
 [小*哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
 小*哥大神班11期| [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目
 [小*哥拓展班2期](https://pan.baidu.com/s/1nuCReid)| 码哥FM，直播，码哥课堂，汇编
@@ -83,31 +83,25 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 地址  |  简介
 ---- | ----
 [iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)| **收集了优秀的iOS开源框架源代码解析文章，强烈推荐**
-[Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star4000+
-[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star3000+
-[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3000+
-[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star2000+
-[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1700+
-[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star1800+
-[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star1700+
-[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1600+
-[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star1500+
-[高仿美团](https://github.com/lookingstars/meituan)|  star1300+
-[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star1300+
-[爱鲜蜂](https://github.com/ZhongTaoTian/LoveFreshBeen)| Swift2.0，star1000+
-[高仿Bilibili客户端](https://github.com/MichaelHuyp/Bilibili_Wuxianda)| star1000+
-[高仿支付宝](https://github.com/gsdios/GSD_ZHIFUBAO)|  star700+
-[高仿最美应用](https://github.com/lyimin/beautifulApp)|  star700+
-[高仿小日子](https://github.com/ZhongTaoTian/SmallDay)|  Swift2.0, star700+
+[Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star5000+
+[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star4500+
+[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3800+
+[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star3000+
+[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1800+
+[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star2300+
+[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star2600+
+[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1700+
+[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star2000+
+[高仿美团](https://github.com/lookingstars/meituan)|  star1500+
+[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star2000+
+[高仿Bilibili客户端](https://github.com/MichaelHuyp/Bilibili_Wuxianda)| star2000+
+[高仿最美应用](https://github.com/lyimin/beautifulApp)| swift, star800+
 [一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star600+
-[知乎日报](https://github.com/jxd001/Swift-ZhihuDaily)|  swift 知乎日报, star500+
-[CocoaChina+](https://github.com/zixun/CocoaChinaPlus)|  开源的第三方CocoaChina移动端,swift2.0， star500+
-[半塘](https://github.com/jiachenmu/Swift-BanTang)|  Swift2.0 高仿半糖App，star400+
-[高仿百度糯米](https://github.com/lookingstars/nuomi)|  star400+
-[MVVM](https://github.com/shenAlexy/MVVM)|  MVVM架构的一次实践，重写iOS头条客户端，star300+
-[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star200+
+[CocoaChina+](https://github.com/zixun/CocoaChinaPlus)|  开源的第三方CocoaChina移动端, star600+
+[高仿百度糯米](https://github.com/lookingstars/nuomi)|  star500+
+[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star300+
 ## 微信公众号
-![](http://upload-images.jianshu.io/upload_images/1070332-6b6f25ce0b552191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![QQ20170622-090914.png](http://upload-images.jianshu.io/upload_images/1070332-47a8fbbfed3c3071.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 更多资料
 
 地址  |  简介
@@ -116,5 +110,6 @@ iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学�
 [SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，接近1W的star
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 4000多个star，iOS、mac开源项目及库
 [skill-map](https://github.com/TeamStuQ/skill-map)|  IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱
-[全球移动技术大会2016](http://ppt.geekbang.org/gmtc?amp;isappinstalled=0&amp;amp;amp;amp;amp;from=groupmessage&amp;amp;amp;amp;from=groupmessage&amp;amp;amp;from=timeline&amp;amp;amp;isappinstalled=0&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0&from=timeline&from=timeline&isappinstalled=0)| 全球移动技术大会2016PPT下载合集
+[全球移动技术大会2016](http://pan.baidu.com/s/1o8SvZTK)| 全球移动技术大会2016PPT下载合集
 [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)| 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
+[全球移动技术大会2017](http://ppt.geekbang.org/gmtc)| 全球移动技术大会2017PPT下载合集
